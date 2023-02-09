@@ -1,5 +1,5 @@
 version: 1.2
 workflows:
-  name: test_bam_workflow
+  - name: test_bam_workflow
     subclass: WDL
-    primaryDescriptorPath:/wdl-101-bam.wdl
+    primaryDescriptorPath: /wdl-101-bam.wdl
