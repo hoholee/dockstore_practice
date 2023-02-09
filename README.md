@@ -1,2 +1,2 @@
 # dockstore_practice
-A repo for linking Github and dockstore
+A repo for linking Github and Dockstore
